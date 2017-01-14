@@ -1,4 +1,4 @@
-# gitstudy3
+# gitstudy3　ああああ
 
 
 Readme
